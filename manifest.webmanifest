@@ -1,0 +1,10 @@
+{
+  "name": "FORM Fitness",
+  "short_name": "FORM",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0d0c",
+  "theme_color": "#0b0d0c",
+  "description": "Your free FORM fitness coaching app."
+}
